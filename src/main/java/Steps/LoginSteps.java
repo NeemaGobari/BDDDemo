@@ -8,6 +8,8 @@ public class LoginSteps {
     @Given("User is on login page")
     public void userIsOnLoginPage() {
         System.out.println("userIsOnLoginPage");
+        System.out.println("Welcome to Login page");
+        System.out.println("abd");
     }
 
     @When("user enters user name and password")
